@@ -1,0 +1,268 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    background-image: url(images/back1.jpg);
+    background-repeat: repeat;
+    font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    
+}
+.container{
+    background-image: url(images/back1.jpg);
+    background-repeat: repeat;
+}
+.topbar{
+    color: red;
+    background-color: #f2f2f2;
+    
+    display: flex;
+    
+    
+    
+}
+.topbar ul {
+    list-style-type: none;
+    
+    overflow: hidden;
+    
+    
+  }
+  
+.topbar li {
+    float: left;
+    min-width: 25px;
+    min-height: 20px;
+    text-align: center;
+   
+
+  }
+.top-left{
+    float: left;
+    font-size: 12px;
+    font-weight: 600;
+    color: #cc0000;
+    width: 80%;
+    
+}
+.top-left i{
+   font-size: 13px;
+   padding-top: 13px;
+}
+.top-right{
+    float: left;
+    font-size: 12px;
+    font-weight: 600;
+    color: #cc0000;
+    
+}
+.top-right li{
+    padding: 5px;
+    font-size: 12px;
+}
+
+.header{
+    background-color: #C03B29;
+    padding: 10px;
+    padding-left: 100px;
+    display: flex;
+}
+.logo-div{
+    float: left;
+}
+.menu-div{
+float: left;
+margin-left: 100px;
+color: white;
+font-family: "Raleway", "Helvetica Neue", Helvetica;
+font-size: 13px;
+font-size: 13px;
+font-weight: 700;
+}
+
+.menu-div li{
+    list-style: none;
+    display: inline;
+    padding: 5px;
+}
+.body-container-div{
+    background-image: url(images/mhtopbg-a1tgnz.jpg);
+    display: flex;
+    padding: 10px;
+    padding-top: 30px;
+}
+.slider-div{
+    margin-left: 100px;
+    float: left;
+    
+   
+}
+.left-grid-div{
+    float: right;
+    margin-left: 20px;
+    
+}
+.left-grid-div div{
+   width: 130px;
+   float: left;
+   
+}
+.left-grid-div img{
+    margin-bottom: 2px;
+}
+.body-container-div2{
+   
+   
+    margin-top: 50px;
+    display: flex;
+}
+.body-cont2-left{
+float: left;
+margin-left: 100px;
+
+}
+.announcements-div{
+  
+    margin-top: -22px;
+    background-image: url(images/backimage.jpg);
+    text-align: center;
+    width: 330px;
+    
+    
+    
+}
+.announcements-div h2{
+    font-size: 27px;
+    color: #cc0000;
+    font-weight: normal;
+    padding: 14px;
+}
+.affidavit-div{
+    background-image: url(images/backimage.jpg);
+    width: 330px;
+    
+    
+}
+.affidavit-div p{
+    padding: 50px;
+    margin-top: -10px;
+}
+.update-div{
+    width: 100px;
+    margin-left: 20px;
+    
+    
+    
+}
+.update-div img{
+    margin-bottom: 10px;
+    
+}
+
+.container-3{
+    background-image: url(images/bulletinback.jpg);
+    padding: 100px;
+    padding-bottom: 30px;
+    margin-top: 100px;
+    display: flex;
+}
+.cont2-left{
+    float: left;
+    display: block;
+    width: 310px;
+    text-align: center;
+   padding:5px;
+    background-color: white;
+    
+}
+.cont2-left a{
+    padding: 20px;
+    font-family: "Raleway", "Helvetica Neue", Helvetica;
+    font-weight: bold;
+    
+}
+.col-right{
+    float: left;
+    padding-left: 300px;
+}
+.right-col{
+    float: left;
+    margin-left: 20px;
+    padding-top: 100px;
+}
+.right-col table td{
+    width: 170px;
+    text-align: center;
+    
+   
+}
+.more-links-div {
+    
+    background-image: linear-gradient(rgb(231, 226, 226), white);
+    margin-top: -20px;
+    
+    color: #cc0000;;
+    
+}
+.more-links-div h2{
+    font-size: 24px;
+    color: #cc0000;
+    font-weight: 400;
+    text-align: center;
+    padding-top: 50px;
+    
+    
+}
+.more-links-grid{
+    display: flex;
+    margin-left: 100px;
+    
+}
+.more-link-col{
+    width: 310px;
+   
+}
+.more-link-col div{
+    height: 100px;
+    font-size: 17px;
+}
+.footer-1{
+    background-color: #232F3E;
+    margin-top: 0px;
+   padding: 20px;
+   padding-left: 100px;
+   color: #ccc;
+   line-height: 28px;
+   font-size: 15px;
+   display: flex;
+   
+}
+.footer-1 h2{
+    color: white;
+    font-size: 20px;
+}
+.footer-1 ul{
+    margin-left: 0px;
+    padding-left: 0px;
+}
+.foot-col{
+    width: 375px;
+    float: left;
+}
+.foot-col p{
+    font-weight: bold;
+}
+.footer-2{
+    background-color: #131A22;
+    color: #ccc;
+    display: flex;
+    font-size: 12px;
+    text-decoration:line-through;
+    text-align: center;
+    padding-left: 300px;
+    padding-top: 20px;
+}
+
+   
+
+
+
+
